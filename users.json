@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "password": "admin123",
+      "email": "admin@gmail.com"
+    },
+    {
+      "id": "aldi31193",
+      "password": "aldi123",
+      "email": "aldi@gmail.com"
+    },
+    {
+      "id": "nofri31193",
+      "password": "aldi31193",
+      "email": "aldi@gmail.com"
+    },
+    {
+      "id": "admin1",
+      "password": "admin1",
+      "email": "admin1@gmail.com"
+    },
+    {
+      "id": "admin2",
+      "password": "admin2",
+      "email": "admin2@gmail.com"
+    }
+  ]
+}
