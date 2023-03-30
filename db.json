@@ -24,6 +24,11 @@
       "id": "admin2",
       "password": "admin2",
       "email": "admin2@gmail.com"
+    },
+    {
+      "id": "hola",
+      "password": "hola",
+      "email": "admin@gmail.com"
     }
   ],
   "members": [
@@ -61,6 +66,13 @@
       "email": "nofri@gmail.com",
       "phone": "089612022458",
       "status": "Student"
+    },
+    {
+      "name": "hola",
+      "email": "angeline@gmail.com",
+      "phone": "-",
+      "status": "Team Leader",
+      "id": 6
     }
   ]
 }
