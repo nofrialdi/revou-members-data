@@ -1,32 +1,14 @@
 [
   {
-    "id": "admin",
+    "id": 1,
     "password": "admin123",
-    "email": "admin@gmail.com"
+    "email": "admin@gmail.com",
+    "username": "admin"
   },
   {
-    "id": "aldi31193",
+    "id": 2,
     "password": "aldi123",
-    "email": "aldi@gmail.com"
-  },
-  {
-    "id": "nofri31193",
-    "password": "aldi31193",
-    "email": "aldi@gmail.com"
-  },
-  {
-    "id": "admin1",
-    "password": "admin1",
-    "email": "admin1@gmail.com"
-  },
-  {
-    "id": "admin2",
-    "password": "admin2",
-    "email": "admin2@gmail.com"
-  },
-  {
-    "id": "hola",
-    "password": "hola",
-    "email": "admin@gmail.com"
+    "email": "aldi@gmail.com",
+    "username": "aldi"
   }
 ]
